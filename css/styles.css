@@ -272,7 +272,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #3d4772;
+  color: #a5a5a5;
 }
 
 a:not([href]):not([class]),
